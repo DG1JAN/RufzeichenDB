@@ -1,3 +1,6 @@
+
+!!! Dieses Projekt ist stark „Vibe Coded“ mit GitHub Copilot !!! Es kommt ohne jegliche Garantien und befindet sich in Arbeit (Work in Progress)!!
+
 # Lokales Amateurfunk-Rufzeichenregister
 
 `index.html` im Browser öffnen. Die Suche funktioniert ohne Installation,
